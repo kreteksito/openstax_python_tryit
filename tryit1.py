@@ -1,0 +1,5 @@
+print("I shall be telling this with a sigh", end=" ")
+print("Somewhere ages and ages hence:", end=" ")
+print("Two reads diverged in a wood, and I--", end=" ")
+print("I took the one less traveled by,", end=" ")
+print("And that has made all the difference.", end="")
